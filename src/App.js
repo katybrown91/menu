@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { Link, NavLink } from 'react-router-dom';
 import { Route, Switch } from 'react-router-dom';
-import Home from './components/Home';
+import Home from '../src/components/Home';
 
 function App() {
   return (
