@@ -8,6 +8,17 @@ class Menu extends React.Component{
       <div>
         <nav><Link to = '/'>Home</Link></nav>
         <div className="menu-items">
+          <h3>Donuts</h3>
+          <p><ul>
+            <li>Chocolate Chip</li>
+            <li>Cookies and Cream</li> 
+            <li>Tres Leches</li>
+            <li>Raspberry</li>    
+            <li>Coconut Cream</li>
+            <li>Strawberry</li>
+            <li>Guava</li>
+            <li>Red Velvet</li></ul></p>
+
         <h3>Coffee and Tea</h3>
         <p><ul>
           <li>French Vanilla Latte</li>
